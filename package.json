@@ -106,7 +106,7 @@
 		"seng-generator": "^0.8.0",
 		"sqip": "^0.3.3",
 		"stylelint": "^10.0.1",
-		"uglify-js": "^3.3.27",
+		"uglify-js": "^3.5.15",
 		"watchify": "^3.11.1",
 		"yarn": "^1.16.0"
 	}
