@@ -726,7 +726,7 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.12.tgz#cc791b402360db1eaf7176479072f91ee6c6c7ca"
   integrity sha512-Uy0PN4R5vgBUXFoJrKryf5aTk3kJ8Rv3PdlHjl6UaX+Cqp1QE0yPQ68MPXGrZOfG7gZVNDIJZYyot0B9ubXUrQ==
 
-"@types/node@^8.10.30":
+"@types/node@^8.10.50":
   version "8.10.50"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.50.tgz#f3d68482b1f54b5f4fba8daaac385db12bb6a706"
   integrity sha512-+ZbcUwJdaBgOZpwXeT0v+gHC/jQbEfzoc9s4d0rN0JIKeQbuTrT+A2n1aQY6LpZjrLXJT7avVUqiCecCJeeZxA==
@@ -5791,15 +5791,15 @@ neo-async@^2.6.0:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
-ngrok@^3.1.0:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/ngrok/-/ngrok-3.2.1.tgz#b9db022fce862711122e404b4763145eb6387aa3"
-  integrity sha512-gbRPHmAfBgIsgRGXE25c3NZXZXs4mpgPuQSPSq02r8QBk4VMoByiLJXKXrUCQm37x/Kfl8cIsWreWDgdNobtOQ==
+ngrok@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/ngrok/-/ngrok-3.2.2.tgz#c3ef90bd5a5f948690ca301f79e3f629c78c4974"
+  integrity sha512-cD4LiT5ynGVitYWyaZejITrQEyP0O+LjlrtqRDStsAWa3XMnO7C0cAmmtsA+CLeXmDG7CQ5pMXYIIygcI3UUIQ==
   dependencies:
-    "@types/node" "^8.10.30"
+    "@types/node" "^8.10.50"
     decompress-zip "^0.3.2"
     request "^2.88.0"
-    request-promise-native "^1.0.5"
+    request-promise-native "^1.0.7"
     uuid "^3.3.2"
 
 nice-try@^1.0.4:
@@ -7971,7 +7971,7 @@ request-promise-core@1.1.2:
   dependencies:
     lodash "^4.17.11"
 
-request-promise-native@^1.0.5:
+request-promise-native@^1.0.7:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/request-promise-native/-/request-promise-native-1.0.7.tgz#a49868a624bdea5069f1251d0a836e0d89aa2c59"
   integrity sha512-rIMnbBdgNViL37nZ1b3L/VfPOpSi0TqVDQPAvO6U14lMzOLrt5nilxCQqtDKhZeDiW0/hkCXGoQjhgJd/tCh6w==
