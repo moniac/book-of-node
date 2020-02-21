@@ -6712,13 +6712,13 @@ postcss-custom-properties@^8.0.9:
     postcss "^7.0.17"
     postcss-values-parser "^2.0.1"
 
-postcss-custom-properties@^9.0.1:
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/postcss-custom-properties/-/postcss-custom-properties-9.0.1.tgz#6a27e32085231b538c1bdf4fda5deffb54775d44"
-  integrity sha512-NmVFbwqBfKsKoPtTreloejL0zJmD5gaT1b91W5Gf1F/BstS3vnrQ6e/D90Al2xQ434nMxHQcKhIF2i4SVcYVtg==
+postcss-custom-properties@^9.1.1:
+  version "9.1.1"
+  resolved "https://registry.yarnpkg.com/postcss-custom-properties/-/postcss-custom-properties-9.1.1.tgz#55822d70ff48004f6d307a338ba64a7fb0a4bfff"
+  integrity sha512-GVu+j7vwMTKUGhGXckYAFAAG5tTJUkSt8LuSyimtZdVVmdAEZYYqserkAgX8vwMhgGDPA4vJtWt7VgFxgiooDA==
   dependencies:
     postcss "^7.0.17"
-    postcss-values-parser "^3.0.4"
+    postcss-values-parser "^3.0.5"
 
 postcss-custom-selectors@^4.0.1:
   version "4.0.1"
@@ -7419,10 +7419,10 @@ postcss-values-parser@^2.0.0, postcss-values-parser@^2.0.1:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss-values-parser@^3.0.4:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/postcss-values-parser/-/postcss-values-parser-3.0.5.tgz#9f83849fb89eaac74c2d5bf75e8e9715508a8c8d"
-  integrity sha512-0N6EUBx2Vzl0c9LQipuus90EkVh7saBQFRhgAYpHHcDCIvxRt+K/q0zwcIYtDQVNs5Y9NGqei4AuCEvAOsePfQ==
+postcss-values-parser@^3.0.5:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/postcss-values-parser/-/postcss-values-parser-3.1.1.tgz#487111a0446117d3463d2d429a380788f1365f69"
+  integrity sha512-p56/Cu9wb8+lck/iOTeuFeSHKEUH1bbWQ03T6N3jDkw+15pV65rMY5pK+OWhVpRn5TIrByS6UVpO3mSqvlhZYA==
   dependencies:
     color-name "^1.1.4"
     is-number "^7.0.0"
